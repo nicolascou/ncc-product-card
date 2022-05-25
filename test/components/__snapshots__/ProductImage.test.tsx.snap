@@ -1,0 +1,21 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ProductImage should layout component correctly 1`] = `
+<img
+  alt="Product Image"
+  className="productImg undefined"
+  src="https://hola.jpg"
+/>
+`;
+
+exports[`ProductImage should show component with product image 1`] = `
+<div
+  className="productCard undefined"
+>
+  <img
+    alt="Product Image"
+    className="productImg undefined"
+    src="./coffee-mug2.png"
+  />
+</div>
+`;
